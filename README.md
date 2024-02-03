@@ -1,7 +1,7 @@
 # binaraymodulationsynth
 A binary modulation synthesizer for the Arduino
 
-#Synopsis
+# Synopsis
 
 A synthesizer for the Arduino that can produce sine, triangle and saw waves and wacky waveforms produced by bitwise modulation between these. For an idea of what this synth can do, see my [blog post](http://wstryder.org/synth.html) with pictures of the synth, a demo song made with sounds from the synth and a Youtube video showing the different waveforms on an oldschool oscilloscope.
 What you need
