@@ -1,4 +1,4 @@
-# binaraymodulationsynth
+# binarymodulationsynth
 A binary modulation synthesizer for the Arduino
 
 # Synopsis
