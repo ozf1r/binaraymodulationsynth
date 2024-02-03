@@ -1,5 +1,5 @@
-# binarymodulationsynth
-A binary modulation synthesizer for the Arduino
+# bitwisesynth
+An 8-bit bitwise binary modulation synthesizer for the Arduino
 
 # Synopsis
 
